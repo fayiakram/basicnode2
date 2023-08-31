@@ -12,3 +12,5 @@ class Animals {
 }
 
 class Mamalia extends Animals { }
+
+module.exports = Mamalia;
